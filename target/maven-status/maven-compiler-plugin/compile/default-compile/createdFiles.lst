@@ -1,0 +1,7 @@
+com\companyname\springbootcrudrest\model\User.class
+com\companyname\springbootcrudrest\SpringBootCrudRestApplication.class
+com\companyname\springbootcrudrest\controller\UserController.class
+com\companyname\springbootcrudrest\exception\ResourceNotFoundException.class
+com\companyname\springbootcrudrest\exception\ErrorDetails.class
+com\companyname\springbootcrudrest\exception\GlobalExceptionHandler.class
+com\companyname\springbootcrudrest\repository\UserRepository.class

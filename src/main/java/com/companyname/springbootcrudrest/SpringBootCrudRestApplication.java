@@ -12,3 +12,5 @@ public class SpringBootCrudRestApplication {
 		SpringApplication.run(SpringBootCrudRestApplication.class, args);
 	}
 }
+//https://github.com/DamilolaAdegunwa/rameshmf-springboot-jpa-crud-rest
+//https://github.com/RameshMF/springboot-jpa-crud-rest
